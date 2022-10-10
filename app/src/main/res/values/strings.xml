@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LessonUI6</string>
+    <string name="america">America</string>
+    <string name="todo">TODO</string>
+    <string name="history_of_america">History Of America</string>
+    <string name="presidents_of_america">Presidents Of America</string>
+    <string name="states_of_america">States Of America</string>
+    <string name="sights_of_america">Sights Of America</string>
+</resources>
